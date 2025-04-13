@@ -1,8 +1,9 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
 
 export const LoadingScreen = ({ onComplete }) => {
-  const [text, setText] = useState("");
-  const fullText = "<Hello Wolrd />";
+  const [text, setText] = useState('');
+  const fullText =
+    "Kia ora! Welcome to Jonathan's mix of analytics and designs portfolio page! ";
 
   useEffect(() => {
     let index = 0;
