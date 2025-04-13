@@ -22,7 +22,8 @@ export const Home = () => {
             improvements that respect institutional processes while driving
             innovative outcomes. I also have experience using design tools such
             as Canva and Premiere Pro to support communication and content
-            delivery.
+            delivery.{' '}
+            <strong>Feel free to go to Projects page for more!</strong>
           </p>
 
           <div className="flex justify-center gap-4">
